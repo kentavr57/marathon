@@ -109,7 +109,7 @@ html, body {
     margin-right: 26px;
   }
   
-.main-menu a {
+.main-menu a, .logo>a {
     margin: 0;
     padding: 0;
     font-size: 16px;
