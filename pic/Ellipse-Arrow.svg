@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="72"
+   height="72"
+   viewBox="0 0 72 72"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="Ellipse-Arrow.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.625"
+     inkscape:cx="18.967742"
+     inkscape:cy="36.043011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     cx="36"
+     cy="36"
+     r="36"
+     fill="#CC8B86"
+     id="circle10" />
+  <path
+     d="m 52.207112,36.707103 c 0.390501,-0.39053 0.390501,-1.02369 0,-1.41422 l -6.363999,-6.363958 c -0.390501,-0.390524 -1.0236,-0.390524 -1.4142,0 -0.390501,0.390528 -0.390501,1.023688 0,1.414218 l 5.6569,5.65685 -5.6569,5.6569 c -0.390501,0.3905 -0.390501,1.0236 0,1.4142 0.3906,0.3905 1.023699,0.3905 1.4142,0 z m -32.707099,0.29289 h 32 v -2 h -32 z"
+     fill="#f5f2ed"
+     id="path130" />
+</svg>
